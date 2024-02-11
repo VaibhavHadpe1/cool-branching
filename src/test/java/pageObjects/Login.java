@@ -6,5 +6,6 @@ public class Login
     {
         System.out.println("Login Page Object");
         System.out.println("Login Page Object added line from Dev branch and want conflicts.No.No");
+        System.out.println();
     }
 }
