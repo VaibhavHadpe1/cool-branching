@@ -8,7 +8,7 @@ public class Login
 
         System.out.println("I want conflicts");
 
-        System.out.println("Login Page Object added line from Dev branch and want conflicts.");
+        System.out.println("Login Page Object added line from Dev branch and want conflicts.Conflicts.Conflicts.");
 
     }
 }
